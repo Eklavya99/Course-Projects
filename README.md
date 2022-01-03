@@ -1,2 +1,2 @@
 # Course-Projects
-Projects that were a part of the courses I took
+Projects that were part of the courses I took
